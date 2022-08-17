@@ -16,6 +16,6 @@ projects:
 - {name: 'Self-related processes & Brain activity', url: 'self-related processes'}
 - {name: 'Visual awareness, Consciousness, & Brain activity', url: 'visual_awareness'}
 
-contacts:
+contact:
 -{name: 'participants', image:'assets/img/participants.jpg'}
 
