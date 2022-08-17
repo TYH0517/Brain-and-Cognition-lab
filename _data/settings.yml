@@ -20,6 +20,6 @@ participants:
 - {name: 'participants', image: 'assets/img/participants.jpg'}
 
 posts:
--{name:2022-07-19-Antonio-farewell, url: '2022-07-19-Antonio-farewell', image: 'assets/img/Antonio_farewell.jpg'}
--{name:2022-01-06-Risa-farewell, url: '2022-01-06-Risa-farewell', image: 'assets/img/Risa_farewell.jpg'}
+-{name:2022-07-19-Antonio-farewell, url: '_posts/2022-07-19-Antonio-farewell', image: 'assets/img/Antonio_farewell.jpg'}
+-{name:2022-01-06-Risa-farewell, url: '_posts/2022-01-06-Risa-farewell', image: 'assets/img/Risa_farewell.jpg'}
 
