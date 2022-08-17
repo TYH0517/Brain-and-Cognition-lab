@@ -2,13 +2,18 @@
 layout: default
 ---
 
+{{ content }}
+
+<h3 class="fw-bold border-bottom pb-3 mb-5">Posts</h3>
+{% for posts in site.data.settings.posts %}
 <div class="row g-5 mb-5">
-  <div class="col-md-12">
-    <h3 class="fw-bold border-bottom pb-3 mb-5">{{ page.title }}</h3>
-    {{ content }}
-      </div>
-      <div class="col-md-6">
-      <img src="{{ site.github.url }}/assets/img/Antonio_farewell.jpg" alt="nan" width="50%" hight="50%">
+  <div class="col-md-6">
+    <h5>{{ posts.name }}</h5>
+    <p><a href="{{ site.github.url }}/posts/{{ posts.url }}">More info</a></p>
+  </div>
+  <div class="col-md-6">
+    <img src="{{ site.github.url }}/{{ posts.image }}" alt="photo" width="50%" hight="50%">
   </div>
 </div>
+{% endfor %}
 

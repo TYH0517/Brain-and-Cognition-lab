@@ -19,3 +19,6 @@ projects:
 participants:
 - {name: 'participants', image: 'assets/img/participants.jpg'}
 
+posts:
+-{name:2022-07-19-Antonio-farewell, url: '2022-07-19-Antonio-farewell', image: 'assets/img/Antonio_farewell.jpg'}
+
