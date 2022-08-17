@@ -17,5 +17,5 @@ projects:
 - {name: 'Visual awareness, Consciousness, & Brain activity', url: 'visual_awareness'}
 
 participants:
-- {name: 'participant', image: 'assets/img/participants.jpg'}
+- {name: 'participants', image: 'assets/img/participants.jpg'}
 
