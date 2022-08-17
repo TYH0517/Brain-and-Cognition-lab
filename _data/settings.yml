@@ -8,7 +8,7 @@ menu:
 people:
 - {name: 'Tzu-Yu Hsu PhD', title: 'Associate Professor', department: 'Graduate Institute of Mind, Brain and Consciousness', institution: 'Taipei Medical University', institution_address: 'No. 250, Wuxing St, Xinyi District, Taipei City', email: 'tzuyu.hsu@tmu.edu.tw', office: '12F, TMU Daan campus', image: 'assets/img/primary-investigator.jpg', url: 'primary-investigator'}
 - {name: 'Paul Z. Cheng', title: 'PhD student', department: 'Graduate Institute of Mind, Brain and Consciousness', institution: 'Taipei Medical University', email: 'paul.z.cheng@tmu.edu.tw', image: 'assets/img/Paul.jpg', url: 'Paul'}
-- {name: 'Lab Technician', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/lab-technician.jpg', url: 'lab-technician'}
+- {name: 'Ko-ping Chou', title: 'Research Assistant', department: 'Graduate Institute of Mind, Brain and Consciousness', institution: 'Taipei Medical University', email: 'koping14916@tmu.edu.tw', image: 'assets/img/ko-ping.jpg', url: 'ko-ping'}
 
 courses:
 - {name: 'Vector Calculus', url: 'vector-calculus'}
