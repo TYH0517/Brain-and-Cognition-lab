@@ -3,7 +3,7 @@ menu:
 - {name: 'publications', url: '/publications'}
 - {name: 'projects', url: '/projects'}
 - {name: 'cv', url: '/cv'}
-- {name: 'participants', url: '/participants'}
+- {name: 'contact', url: '/contact'}
 
 people:
 - {name: 'Tzu-Yu Hsu PhD', title: 'Associate Professor', department: 'Graduate Institute of Mind, Brain and Consciousness', institution: 'Taipei Medical University', institution_address: 'No. 250, Wuxing St, Xinyi District, Taipei City', email: 'tzuyu.hsu@tmu.edu.tw', office: '12F, TMU Daan campus', image: 'assets/img/primary-investigator.jpg', url: 'primary-investigator'}
@@ -16,6 +16,6 @@ projects:
 - {name: 'Self-related processes & Brain activity', url: 'self-related processes'}
 - {name: 'Visual awareness, Consciousness, & Brain activity', url: 'visual_awareness'}
 
-participants:
+contacts:
 -{name: 'participants', image:'assets/img/participants.jpg'}
 
