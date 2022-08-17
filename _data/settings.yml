@@ -17,5 +17,5 @@ projects:
 - {name: 'Visual awareness, Consciousness, & Brain activity', url: 'visual_awareness'}
 
 contacts:
-- {name: 'Dr. Academia', title: 'Professor', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/participants.jpg'}
+- {'We constantly recruite participants. If you are interested in our experiments, you are more than welcome to contact us for further information (tzuyu.hsu@tmu.edu.tw).', image: 'assets/img/participants.jpg'}
 
