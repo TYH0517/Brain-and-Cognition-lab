@@ -13,8 +13,8 @@ people:
 - {name: 'Risa Dwi Ratnasari', title: 'alumni', department: 'Graduate Institute of Mind, Brain and Consciousness', institution: 'Taipei Medical University', email: 'risa.wiratnas@gmail.com', image: 'assets/img/Risa1.jpg', url: 'Risa'}
 
 projects:
-- {name: 'Self-relted processes & Brain activity', url: 'projects/Self-relted processes'}
-- {name: 'Visual awareness, Consciousness, & Brain activity', url: 'projects/visual_awareness'}
+- {name: 'Self-related processes & Brain activity', url: 'self-related processes'}
+- {name: 'Visual awareness, Consciousness, & Brain activity', url: 'visual_awareness'}
 
 social:
 - {icon: 'github', link: 'https://github.com/LeNPaul'}
