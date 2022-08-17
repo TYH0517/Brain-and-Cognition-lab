@@ -1,7 +1,7 @@
 menu:
 - {name: 'people', url: '/people'}
 - {name: 'publications', url: '/publications'}
-- {name: 'courses', url: '/courses'}
+- {name: 'projects', url: '/projects'}
 - {name: 'cv', url: '/cv'}
 - {name: 'contact', url: '/contact'}
 
@@ -12,10 +12,9 @@ people:
 - {name: 'Antonio Martin', title: 'alumni', department: 'Graduate Institute of Mind, Brain and Consciousness', institution: 'Taipei Medical University', email: 'antonio@tmu.edu.tw', image: 'assets/img/Antonio1.jpg', url: 'Antonio'}
 - {name: 'Risa Dwi Ratnasari', title: 'alumni', department: 'Graduate Institute of Mind, Brain and Consciousness', institution: 'Taipei Medical University', email: 'risa.wiratnas@gmail.com', image: 'assets/img/Risa1.jpg', url: 'Risa'}
 
-courses:
-- {name: 'Vector Calculus', url: 'vector-calculus'}
-- {name: 'Quantum Mechanics', url: 'quantum-mechanics'}
-- {name: 'Stellar Structures', url: 'stellar-structures'}
+projects:
+- {name: 'Self-relted processes & Brain activity', url: 'Self-relted processes & Brain activity'}
+- {name: 'Visual awareness, Consciousness, & Brain activity', url: 'visual_awareness'}
 
 social:
 - {icon: 'github', link: 'https://github.com/LeNPaul'}
