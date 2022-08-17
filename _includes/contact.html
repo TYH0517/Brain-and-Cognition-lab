@@ -2,7 +2,7 @@
   <div>
     <h3 class="fw-bold border-bottom pb-3 mb-5">Participants</h3>
      <p>If you like to participate our experiments, welcome to <a href="mailto:tzuyu.hsu@tmu.edu.tw">contact us</a></p>
-    {% for contact in site.data.settings.participants %}
+    {% for participants in site.data.settings.participants %}
     <div class="row g-5 mb-5">
       <div class="col-md-6">
         <img src="{{ site.github.url }}/{{ participants.image }}" alt="Contact" width="100%">
